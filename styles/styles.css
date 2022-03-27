@@ -1,0 +1,25 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.title.primary {
+    text-align: center;
+}
+
+.title.secondary {
+    font-size: smaller;
+    color: grey;
+}
+
+img {
+  height: auto;
+  width: 300px;  
+}
+
+.home {
+    color: purple;
+}
